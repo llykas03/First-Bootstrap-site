@@ -1,0 +1,17 @@
+.jumbotron {
+    margin: 0;
+}
+.two {
+    margin-bottom: 30px;
+}
+.side {
+    padding: 0 10px;
+}
+.content {
+    
+   padding: 0 10px;
+}
+.fakeimg {
+    height: 200px;
+    background-color: #aaa;
+}
